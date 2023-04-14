@@ -1,4 +1,4 @@
-### Hellow there! Eu sou Vinícius Vasconcelos
+### Eu sou Vinícius Vasconcelos
 
 - 🔭 Estudo para programação back-end
 - 🌱 Estudante do 2º período de Sistemas para Internet
